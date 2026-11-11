@@ -1,0 +1,502 @@
+[
+  {
+    "number": 1,
+    "target": 50,
+    "moves": 30
+  },
+  {
+    "number": 2,
+    "target": 60,
+    "moves": 30
+  },
+  {
+    "number": 3,
+    "target": 70,
+    "moves": 30
+  },
+  {
+    "number": 4,
+    "target": 80,
+    "moves": 30
+  },
+  {
+    "number": 5,
+    "target": 90,
+    "moves": 30
+  },
+  {
+    "number": 6,
+    "target": 100,
+    "moves": 30
+  },
+  {
+    "number": 7,
+    "target": 110,
+    "moves": 30
+  },
+  {
+    "number": 8,
+    "target": 120,
+    "moves": 30
+  },
+  {
+    "number": 9,
+    "target": 130,
+    "moves": 30
+  },
+  {
+    "number": 10,
+    "target": 140,
+    "moves": 30
+  },
+  {
+    "number": 11,
+    "target": 150,
+    "moves": 29
+  },
+  {
+    "number": 12,
+    "target": 160,
+    "moves": 29
+  },
+  {
+    "number": 13,
+    "target": 170,
+    "moves": 29
+  },
+  {
+    "number": 14,
+    "target": 180,
+    "moves": 29
+  },
+  {
+    "number": 15,
+    "target": 190,
+    "moves": 29
+  },
+  {
+    "number": 16,
+    "target": 200,
+    "moves": 29
+  },
+  {
+    "number": 17,
+    "target": 210,
+    "moves": 29
+  },
+  {
+    "number": 18,
+    "target": 220,
+    "moves": 29
+  },
+  {
+    "number": 19,
+    "target": 230,
+    "moves": 29
+  },
+  {
+    "number": 20,
+    "target": 240,
+    "moves": 29
+  },
+  {
+    "number": 21,
+    "target": 250,
+    "moves": 28
+  },
+  {
+    "number": 22,
+    "target": 260,
+    "moves": 28
+  },
+  {
+    "number": 23,
+    "target": 270,
+    "moves": 28
+  },
+  {
+    "number": 24,
+    "target": 280,
+    "moves": 28
+  },
+  {
+    "number": 25,
+    "target": 290,
+    "moves": 28
+  },
+  {
+    "number": 26,
+    "target": 300,
+    "moves": 28
+  },
+  {
+    "number": 27,
+    "target": 310,
+    "moves": 28
+  },
+  {
+    "number": 28,
+    "target": 320,
+    "moves": 28
+  },
+  {
+    "number": 29,
+    "target": 330,
+    "moves": 28
+  },
+  {
+    "number": 30,
+    "target": 340,
+    "moves": 28
+  },
+  {
+    "number": 31,
+    "target": 350,
+    "moves": 27
+  },
+  {
+    "number": 32,
+    "target": 360,
+    "moves": 27
+  },
+  {
+    "number": 33,
+    "target": 370,
+    "moves": 27
+  },
+  {
+    "number": 34,
+    "target": 380,
+    "moves": 27
+  },
+  {
+    "number": 35,
+    "target": 390,
+    "moves": 27
+  },
+  {
+    "number": 36,
+    "target": 400,
+    "moves": 27
+  },
+  {
+    "number": 37,
+    "target": 410,
+    "moves": 27
+  },
+  {
+    "number": 38,
+    "target": 420,
+    "moves": 27
+  },
+  {
+    "number": 39,
+    "target": 430,
+    "moves": 27
+  },
+  {
+    "number": 40,
+    "target": 440,
+    "moves": 27
+  },
+  {
+    "number": 41,
+    "target": 450,
+    "moves": 26
+  },
+  {
+    "number": 42,
+    "target": 460,
+    "moves": 26
+  },
+  {
+    "number": 43,
+    "target": 470,
+    "moves": 26
+  },
+  {
+    "number": 44,
+    "target": 480,
+    "moves": 26
+  },
+  {
+    "number": 45,
+    "target": 490,
+    "moves": 26
+  },
+  {
+    "number": 46,
+    "target": 500,
+    "moves": 26
+  },
+  {
+    "number": 47,
+    "target": 510,
+    "moves": 26
+  },
+  {
+    "number": 48,
+    "target": 520,
+    "moves": 26
+  },
+  {
+    "number": 49,
+    "target": 530,
+    "moves": 26
+  },
+  {
+    "number": 50,
+    "target": 540,
+    "moves": 26
+  },
+  {
+    "number": 51,
+    "target": 550,
+    "moves": 25
+  },
+  {
+    "number": 52,
+    "target": 560,
+    "moves": 25
+  },
+  {
+    "number": 53,
+    "target": 570,
+    "moves": 25
+  },
+  {
+    "number": 54,
+    "target": 580,
+    "moves": 25
+  },
+  {
+    "number": 55,
+    "target": 590,
+    "moves": 25
+  },
+  {
+    "number": 56,
+    "target": 600,
+    "moves": 25
+  },
+  {
+    "number": 57,
+    "target": 610,
+    "moves": 25
+  },
+  {
+    "number": 58,
+    "target": 620,
+    "moves": 25
+  },
+  {
+    "number": 59,
+    "target": 630,
+    "moves": 25
+  },
+  {
+    "number": 60,
+    "target": 640,
+    "moves": 25
+  },
+  {
+    "number": 61,
+    "target": 650,
+    "moves": 24
+  },
+  {
+    "number": 62,
+    "target": 660,
+    "moves": 24
+  },
+  {
+    "number": 63,
+    "target": 670,
+    "moves": 24
+  },
+  {
+    "number": 64,
+    "target": 680,
+    "moves": 24
+  },
+  {
+    "number": 65,
+    "target": 690,
+    "moves": 24
+  },
+  {
+    "number": 66,
+    "target": 700,
+    "moves": 24
+  },
+  {
+    "number": 67,
+    "target": 710,
+    "moves": 24
+  },
+  {
+    "number": 68,
+    "target": 720,
+    "moves": 24
+  },
+  {
+    "number": 69,
+    "target": 730,
+    "moves": 24
+  },
+  {
+    "number": 70,
+    "target": 740,
+    "moves": 24
+  },
+  {
+    "number": 71,
+    "target": 750,
+    "moves": 23
+  },
+  {
+    "number": 72,
+    "target": 760,
+    "moves": 23
+  },
+  {
+    "number": 73,
+    "target": 770,
+    "moves": 23
+  },
+  {
+    "number": 74,
+    "target": 780,
+    "moves": 23
+  },
+  {
+    "number": 75,
+    "target": 790,
+    "moves": 23
+  },
+  {
+    "number": 76,
+    "target": 800,
+    "moves": 23
+  },
+  {
+    "number": 77,
+    "target": 810,
+    "moves": 23
+  },
+  {
+    "number": 78,
+    "target": 820,
+    "moves": 23
+  },
+  {
+    "number": 79,
+    "target": 830,
+    "moves": 23
+  },
+  {
+    "number": 80,
+    "target": 840,
+    "moves": 23
+  },
+  {
+    "number": 81,
+    "target": 850,
+    "moves": 22
+  },
+  {
+    "number": 82,
+    "target": 860,
+    "moves": 22
+  },
+  {
+    "number": 83,
+    "target": 870,
+    "moves": 22
+  },
+  {
+    "number": 84,
+    "target": 880,
+    "moves": 22
+  },
+  {
+    "number": 85,
+    "target": 890,
+    "moves": 22
+  },
+  {
+    "number": 86,
+    "target": 900,
+    "moves": 22
+  },
+  {
+    "number": 87,
+    "target": 910,
+    "moves": 22
+  },
+  {
+    "number": 88,
+    "target": 920,
+    "moves": 22
+  },
+  {
+    "number": 89,
+    "target": 930,
+    "moves": 22
+  },
+  {
+    "number": 90,
+    "target": 940,
+    "moves": 22
+  },
+  {
+    "number": 91,
+    "target": 950,
+    "moves": 21
+  },
+  {
+    "number": 92,
+    "target": 960,
+    "moves": 21
+  },
+  {
+    "number": 93,
+    "target": 970,
+    "moves": 21
+  },
+  {
+    "number": 94,
+    "target": 980,
+    "moves": 21
+  },
+  {
+    "number": 95,
+    "target": 990,
+    "moves": 21
+  },
+  {
+    "number": 96,
+    "target": 1000,
+    "moves": 21
+  },
+  {
+    "number": 97,
+    "target": 1010,
+    "moves": 21
+  },
+  {
+    "number": 98,
+    "target": 1020,
+    "moves": 21
+  },
+  {
+    "number": 99,
+    "target": 1030,
+    "moves": 21
+  },
+  {
+    "number": 100,
+    "target": 1040,
+    "moves": 21
+  }
+]
