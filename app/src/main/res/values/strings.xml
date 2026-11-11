@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Blast Lite</string>
+    <string name="menu_play_endless">უსასრულო თამაში</string>
+    <string name="menu_levels">დონეები</string>
+    <string name="menu_daily">ყოველდღიური</string>
+    <string name="menu_alphabet">ანბანი</string>
+    <string name="menu_records">რეკორდები</string>
+    <string name="menu_settings">პარამეტრები</string>
+    <string name="menu_subtitle">8×8 ბლოკების თავსატეხი</string>
+    <string name="game_score">ქულა</string>
+    <string name="game_best">რეკორდი</string>
+    <string name="game_moves">სვლები</string>
+    <string name="game_target">მიზანი</string>
+    <string name="game_over">თამაში დასრულდა</string>
+    <string name="game_new_best">ახალი რეკორდი!</string>
+    <string name="game_retry">თავიდან</string>
+    <string name="game_menu">მენიუ</string>
+    <string name="game_next_level">შემდეგი დონე</string>
+    <string name="game_level_complete">დონე გავლილია!</string>
+    <string name="game_level_failed">დონე ვერ გაიარე</string>
+    <string name="game_pause">პაუზა</string>
+    <string name="game_resume">გაგრძელება</string>
+    <string name="game_share">გაზიარება</string>
+    <string name="game_tap_shape">აირჩიე ფიგურა, მერე დაფაზე დააჭირე</string>
+    <string name="levels_title">დონეები</string>
+    <string name="level_target">მიზანი</string>
+    <string name="level_moves">სვლები</string>
+    <string name="records_title">რეკორდები</string>
+    <string name="records_empty">ჯერ რეკორდი არ არის — ითამაშე!</string>
+    <string name="records_best_endless">უსასრულო რეჟიმის რეკორდი</string>
+    <string name="records_best_daily">ყოველდღიურის რეკორდი</string>
+    <string name="records_levels_done">გავლილი დონეები</string>
+    <string name="settings_title">პარამეტრები</string>
+    <string name="settings_sound">ხმა</string>
+    <string name="settings_vibration">ვიბრაცია</string>
+    <string name="settings_language">ენა</string>
+    <string name="back">უკან</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Blast Lite</string>
+    <string name="menu_play_endless">Бесконечная игра</string>
+    <string name="menu_levels">Уровни</string>
+    <string name="menu_daily">Ежедневная</string>
+    <string name="menu_alphabet">Алфавит</string>
+    <string name="menu_records">Рекорды</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_subtitle">Головоломка 8×8</string>
+    <string name="game_score">Счёт</string>
+    <string name="game_best">Рекорд</string>
+    <string name="game_moves">Ходы</string>
+    <string name="game_target">Цель</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="game_new_best">Новый рекорд!</string>
+    <string name="game_retry">Ещё раз</string>
+    <string name="game_menu">Меню</string>
+    <string name="game_next_level">Следующий уровень</string>
+    <string name="game_level_complete">Уровень пройден!</string>
+    <string name="game_level_failed">Уровень не пройден</string>
+    <string name="game_pause">Пауза</string>
+    <string name="game_resume">Продолжить</string>
+    <string name="game_share">Поделиться</string>
+    <string name="game_tap_shape">Нажми на фигуру, затем на поле</string>
+    <string name="levels_title">Уровни</string>
+    <string name="level_target">Цель</string>
+    <string name="level_moves">Ходы</string>
+    <string name="records_title">Рекорды</string>
+    <string name="records_empty">Рекордов пока нет — играй!</string>
+    <string name="records_best_endless">Рекорд бесконечной игры</string>
+    <string name="records_best_daily">Рекорд ежедневной</string>
+    <string name="records_levels_done">Пройдено уровней</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_sound">Звук</string>
+    <string name="settings_vibration">Вибрация</string>
+    <string name="settings_language">Язык</string>
+    <string name="back">Назад</string>
+</resources>
